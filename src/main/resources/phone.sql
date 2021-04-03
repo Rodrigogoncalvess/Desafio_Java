@@ -1,0 +1,5 @@
+INSERT INTO PHONE (ddd, number) VALUES ('021', '22224455');
+INSERT INTO PHONE (ddd, number) VALUES ('022', '22884455');
+
+NSERT INTO USER_PHONES(user_id, phone_id) VALUES (1, 1);
+NSERT INTO USER_PHONES(user_id, phone_id) VALUES (1, 2);
